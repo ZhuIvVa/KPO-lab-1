@@ -2,5 +2,5 @@
 using namespace std;
 int main() {
 
-	cout << " you are ok?";
+	cout << " are you ok?";
 }
